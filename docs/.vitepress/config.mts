@@ -22,6 +22,7 @@ export default defineConfig({
           { text: '剩余价值SurplusValue', link: '/podcasts/surplusvalue' },
           { text: '展开讲讲', link: '/podcasts/zhankaijiangjiang' },
           { text: '反派影评', link: '/podcasts/fanpaiyingping' },
+          { text: 'Steve说', link: '/podcasts/steve' },
           { text: '塔可冲司机', link: '/podcasts/tarkochonsky' },
         ]
       },
