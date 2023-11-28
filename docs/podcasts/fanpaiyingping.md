@@ -5,6 +5,8 @@ title: '反派影评'
 
 # {{ $frontmatter.title }}
 
+[Spotify](https://open.spotify.com/show/0ZiSM4Gd3dlndfW2EbOvZI) | [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80YTRkZjc3MC9wb2RjYXN0L3Jzcw==)
+
 [爱发电](https://afdian.net/a/AManforAllSeasons)
 
 ## 舒适的麻木

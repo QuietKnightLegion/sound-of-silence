@@ -22,10 +22,10 @@ aside: false
 
 - 值得补充的信息：播客的收听渠道、社交媒体链接等
 
-- 网站中的错误
+- 网站中的内容错误
 
 #### 投稿方式：
-- （需要一个 GitHub 账号）在 GitHub 的 [issues 页面]()，右侧找到“ New issue ”按钮，填写想要编辑的内容，然后提交，其他人看到后会尽快进行编辑
+- （需要一个 GitHub 账号）在 GitHub 的 [issues 页面]()，右侧找到“ New issue ”按钮，填写想要编辑的内容，然后提交
 - 发送电子邮件到 quietknightlegion@gmail.com
 
 ## 协作编辑
