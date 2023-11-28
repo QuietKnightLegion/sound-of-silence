@@ -11,8 +11,12 @@ title: '展开讲讲'
 
 <div style="height: 228px; width: 100%;"><iframe src="https://audio.com/embed/audio/1783543926171453?theme=light"    style="display:block; border-radius: 6px; border: none; height: 204px; width: 100%;"></iframe><a href='https://audio.com/quiet-knight' style="text-align: center; display: block; color: #A4ABB6; font-size: 12px; font-family: sans-serif; line-height: 16px; margin-top: 8px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">@quiet-knight</a></div>
 
+::: info
+目前（2023年11月），这期节目在网易云音乐仍可收听
+:::
+
 ::: details 介绍
-介绍： 2022年度内容（3:24-19:01)
+介绍： 2022年度内容（3:24-19:01）
 The Voice Of 2022：声音作为一种媒介在过去一年的作用
 嘉宾评选
 吴琦：电影短片《当我望向你的时候》
@@ -38,7 +42,7 @@ The Voice Of 2022：声音作为一种媒介在过去一年的作用
 安小庆：许子东《重读20世纪中国小说》
 吴琦：电影《生死劫》/电视剧《苍穹之昴》
 
-最抚慰人心的内容（1:21:45-1:42:50)
+最抚慰人心的内容（1:21:45-1:42:50）
 王：《逐梦少年殷昱国》/王占黑小说《没有寄出的信》
 洞：安溥《9522》/Ns sports
 康：呼兰的脱口秀/世界杯决赛夜

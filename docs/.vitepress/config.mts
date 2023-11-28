@@ -21,7 +21,8 @@ export default defineConfig({
         items: [
           { text: '剩余价值SurplusValue', link: '/podcasts/surplusvalue' },
           { text: '展开讲讲', link: '/podcasts/zhankaijiangjiang' },
-          { text: '反派影评', link: '/podcasts/fanpaiyingping' }
+          { text: '反派影评', link: '/podcasts/fanpaiyingping' },
+          { text: '塔可冲司机', link: '/podcasts/tarkochonsky' },
         ]
       },
       {
@@ -29,7 +30,7 @@ export default defineConfig({
         items: [
           { text: '音频下载', link: '/download' },
           { text: '协作编辑', link: '/collaborate' },
-          { text: '捐赠', link: '/donate' }
+          // { text: '捐赠', link: '/donate' }
         ]
       }
     ],
