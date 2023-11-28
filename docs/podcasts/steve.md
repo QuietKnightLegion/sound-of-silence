@@ -4,7 +4,9 @@ title: "Steve 说"
 
 # {{ $frontmatter.title }}
 
-[Newsletter](https://steve.hedwig.pub) | [Spotify](https://open.spotify.com/show/4rHsOhdvFMn94U3LSsfoT8) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cDovL3N0ZXZlc2h1by5jb20vcnNz) | [网站](https://steveshuo.com)（未使用 HTTPS ，浏览器会提示安全隐患）
+[Spotify](https://open.spotify.com/show/4rHsOhdvFMn94U3LSsfoT8) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cDovL3N0ZXZlc2h1by5jb20vcnNz)
+
+[Newsletter](https://steve.hedwig.pub) | [网站](https://steveshuo.com)（未使用 HTTPS ，浏览器会提示安全隐患）
 
 ::: tip
 该播客已更名为“史蒂夫说”

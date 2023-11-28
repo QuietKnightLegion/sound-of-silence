@@ -24,6 +24,7 @@ export default defineConfig({
           { text: '反派影评', link: '/podcasts/fanpaiyingping' },
           { text: 'Steve说', link: '/podcasts/steve' },
           { text: '塔可冲司机', link: '/podcasts/tarkochonsky' },
+          { text: '海马星球', link: '/podcasts/seahorseplanet' },
         ]
       },
       {
