@@ -5,6 +5,8 @@ title: '展开讲讲'
 
 # {{ $frontmatter.title }}
 
+[Spotify](https://open.spotify.com/show/5AyxeBKaGFxleNi47OvfEl) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cueGltYWxheWEuY29tL2FsYnVtLzI0NjcyMDIxLnhtbA) | [Apple Podcasts](https://podcasts.apple.com/cn/podcast/%E5%B1%95%E5%BC%80%E8%AE%B2%E8%AE%B2/id1470561691)
+
 [微博](https://weibo.com/u/7265558619)
 
 ## 展开讲讲 - 47.「展开讲奖」2022年度内容大赏

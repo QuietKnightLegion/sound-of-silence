@@ -5,7 +5,7 @@ title: '反派影评'
 
 # {{ $frontmatter.title }}
 
-[Spotify](https://open.spotify.com/show/0ZiSM4Gd3dlndfW2EbOvZI) | [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80YTRkZjc3MC9wb2RjYXN0L3Jzcw==)
+[Spotify](https://open.spotify.com/show/0ZiSM4Gd3dlndfW2EbOvZI) | [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80YTRkZjc3MC9wb2RjYXN0L3Jzcw==) | [Apple Podcasts](https://podcasts.apple.com/cn/podcast/%E5%8F%8D%E6%B4%BE%E5%BD%B1%E8%AF%84/id1113439316)
 
 [爱发电](https://afdian.net/a/AManforAllSeasons)
 

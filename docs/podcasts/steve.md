@@ -4,7 +4,7 @@ title: "Steve 说"
 
 # {{ $frontmatter.title }}
 
-[Spotify](https://open.spotify.com/show/4rHsOhdvFMn94U3LSsfoT8) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cDovL3N0ZXZlc2h1by5jb20vcnNz)
+[Spotify](https://open.spotify.com/show/4rHsOhdvFMn94U3LSsfoT8) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cDovL3N0ZXZlc2h1by5jb20vcnNz) | [Apple Podcasts](https://podcasts.apple.com/cn/podcast/%E5%8F%B2%E8%92%82%E5%A4%AB%E8%AF%B4/id1073852728)
 
 [Newsletter](https://steve.hedwig.pub) | [网站](https://steveshuo.com)（未使用 HTTPS ，浏览器会提示安全隐患）
 

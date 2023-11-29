@@ -4,7 +4,7 @@ title: '翻转电台'
 
 # {{ $frontmatter.title }}
 
-[Spotify](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xNDFlNjUyYy9wb2RjYXN0L3Jzcw) | Apple Podcasts
+[Spotify](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xNDFlNjUyYy9wb2RjYXN0L3Jzcw) | [Apple Podcasts](https://podcasts.apple.com/cn/podcast/%E7%BF%BB%E8%BD%AC%E5%8F%B0%E7%94%B5-%E7%BF%BB%E7%94%B5/id1119089237)
 
 [X(Twitter)](https://twitter.com/Ansel_Flipradio) | [YouTube](https://www.youtube.com/@flipradio_fearnation) | [Patreon](https://www.patreon.com/flipradio) | [网站](https://www.flipradio.club/)
 
