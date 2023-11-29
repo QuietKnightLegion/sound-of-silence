@@ -27,6 +27,7 @@ export default defineConfig({
           { text: '塔可冲司机', link: '/podcasts/tarkochonsky' },
           { text: '海马星球', link: '/podcasts/seahorseplanet' },
           { text: '不可理论', link: '/podcasts/bukelilun' },
+          { text: '共识沙龙', link: '/podcasts/gongshishalong' },
         ]
       },
       {
