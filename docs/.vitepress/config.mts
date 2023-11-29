@@ -47,7 +47,12 @@ export default defineConfig({
     outline: { 
       label: '本页目录',
     },
-    returnToTopLabel: '回到顶部'
+    returnToTopLabel: '回到顶部',
+    sidebarMenuLabel: '目录',
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    }
   },
   cleanUrls: true,
   markdown: {
