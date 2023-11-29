@@ -11,7 +11,7 @@ aside: false
 #pod-list {
   display: none;
 }
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 959px) {
   #pod-list {
     display: block;
   }
