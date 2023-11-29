@@ -6,7 +6,7 @@ export default defineConfig({
   description: "被消失的播客节目",
   head: [
     [
-      'link', { rel: 'icon', href: 'images/favicon.webp' }
+      'link', { rel: 'icon', href: '/favicon.webp' }
     ],
   ],
   themeConfig: {
