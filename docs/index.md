@@ -4,7 +4,7 @@ titleTemplate: ':title'
 aside: false
 ---
 
-这里记录被国内审查删除的播客。
+记录被国内审查删除的播客。
 
 ## 声明
 
