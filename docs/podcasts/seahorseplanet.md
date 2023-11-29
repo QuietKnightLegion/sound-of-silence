@@ -6,9 +6,7 @@ title: "海马星球"
 
 [Spotify](https://open.spotify.com/show/0JO0qK4stSWLU390lTkvG1)
 
-[网站](https://seahorseplanet.net)
-
-[X(Twitter)](https://twitter.com/seahorseplanet)
+[网站](https://seahorseplanet.net) | [X(Twitter)](https://twitter.com/seahorseplanet)
 
 ::: info
 2021年12月1日，该播客被封禁，之前的一期节目为【在东亚让女权主义薪火相传】。
