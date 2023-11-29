@@ -5,6 +5,8 @@ title: '协作编辑'
 
 # {{ $frontmatter.title }}
 
+[GitHub Repo](https://github.com/QuietKnightLegion/sound-of-silence)
+
 本网站使用 [VitePress](https://vitepress.dev/) 构建，是一个基于 Markdown 文件的静态网站框架。
 
 进行内容编辑，你需要了解基础的 Git 操作和 Markdown 语法，通过在 GitHub 上提交 pull request 进行。其它如修改外观、功能等，可以参考 [VitePress 文档](https://vitepress.dev/guide/what-is-vitepress)（英文）。
