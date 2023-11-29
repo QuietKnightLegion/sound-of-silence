@@ -6,6 +6,43 @@ aside: false
 
 记录被国内审查删除的播客。
 
+<style>
+
+#pod-list {
+  display: none;
+}
+@media only screen and (max-width: 960px) {
+  #pod-list {
+    display: block;
+  }
+}
+
+</style>
+
+<div id="pod-list">
+
+<b>播客列表</b>
+
+[剩余价值SurplusValue](/podcasts/surplusvalue)
+
+[展开讲讲](/podcasts/zhankaijiangjiang)
+
+[反派影评](/podcasts/fanpaiyingping)
+
+[Steve说](/podcasts/steve)
+
+[翻转电台](/podcasts/flipradio)
+
+[塔可冲司机](/podcasts/tarkochonsky)
+
+[海马星球](/podcasts/seahorseplanet)
+
+[不可理论](/podcasts/bukelilun)
+
+[共识沙龙](/podcasts/gongshishalong)
+
+</div>
+
 ## 声明
 
 所有内容来自互联网公开信息，版权属于原创作者。
