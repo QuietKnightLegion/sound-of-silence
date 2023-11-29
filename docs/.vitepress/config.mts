@@ -23,14 +23,15 @@ export default defineConfig({
           { text: '展开讲讲', link: '/podcasts/zhankaijiangjiang' },
           { text: '反派影评', link: '/podcasts/fanpaiyingping' },
           { text: 'Steve说', link: '/podcasts/steve' },
+          { text: '翻转电台', link: '/podcasts/flipradio' },
           { text: '塔可冲司机', link: '/podcasts/tarkochonsky' },
           { text: '海马星球', link: '/podcasts/seahorseplanet' },
         ]
       },
       {
-        text: '支持',
+        text: '',
         items: [
-          { text: '音频下载', link: '/download' },
+          { text: '分享', link: '/share' },
           { text: '协作编辑', link: '/collaborate' },
           // { text: '捐赠', link: '/donate' }
         ]
