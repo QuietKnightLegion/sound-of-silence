@@ -24,21 +24,13 @@ aside: false
 <b>播客列表</b>
 
 - [剩余价值SurplusValue](/podcasts/surplusvalue)
-
 - [展开讲讲](/podcasts/zhankaijiangjiang)
-
 - [反派影评](/podcasts/fanpaiyingping)
-
 - [Steve说](/podcasts/steve)
-
 - [翻转电台](/podcasts/flipradio)
-
 - [塔可冲司机](/podcasts/tarkochonsky)
-
 - [海马星球](/podcasts/seahorseplanet)
-
 - [不可理论](/podcasts/bukelilun)
-
 - [共识沙龙](/podcasts/gongshishalong)
 
 </div>
