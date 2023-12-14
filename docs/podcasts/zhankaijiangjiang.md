@@ -9,15 +9,18 @@ title: '展开讲讲'
 
 [微博](https://weibo.com/u/7265558619)
 
-## 展开讲讲 - 47.「展开讲奖」2022年度内容大赏
+::: info 被删除单集
+- 47.「展开讲奖」2022年度内容大赏
+:::
 
+## 展开讲讲 - 47.「展开讲奖」2022年度内容大赏
 ::: info
 目前（2023年11月），这期节目在网易云音乐仍可收听
 :::
 
 <div style="height: 228px; width: 100%;"><iframe src="https://audio.com/embed/audio/1783543926171453?theme=light"    style="display:block; border-radius: 6px; border: none; height: 204px; width: 100%;"></iframe><a href='https://audio.com/quiet-knight' style="text-align: center; display: block; color: #A4ABB6; font-size: 12px; font-family: sans-serif; line-height: 16px; margin-top: 8px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">@quiet-knight</a></div>
 
-::: details 介绍
+::: details 时间轴
 介绍： 2022年度内容（3:24-19:01）
 The Voice Of 2022：声音作为一种媒介在过去一年的作用
 嘉宾评选

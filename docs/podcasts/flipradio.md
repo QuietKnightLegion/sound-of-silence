@@ -8,8 +8,10 @@ title: '翻转电台'
 
 [X(Twitter)](https://twitter.com/Ansel_Flipradio) | [YouTube](https://www.youtube.com/@flipradio_fearnation) | [Patreon](https://www.patreon.com/flipradio) | [网站](https://www.flipradio.club/)
 
-::: info
-圣经学习系列节目 FSTD (From Secular to Divine)和 YouTube 直播录音等无法在国内上架。
+::: info 无法在国内上架的节目
+- 圣经学习系列节目 FSTD (From Secular to Divine)
+- YouTube 直播录音
+- “世界苦茶”新闻综述音频版
 :::
 
 ## FSTD讨论01 基督徒可以抽烟喝酒吗？如何看待成瘾问题？快感是罪吗？ | VOL.28

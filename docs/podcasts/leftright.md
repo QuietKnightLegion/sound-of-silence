@@ -7,8 +7,7 @@ title: '忽左忽右'
 
 [RSS](https://justpodmedia.com/rss/left-right.xml) | [Spotify](https://open.spotify.com/show/1Fm6RmlyY9YsqoOLMBQpxJ) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9qdXN0cG9kbWVkaWEuY29tL3Jzcy9sZWZ0LXJpZ2h0LnhtbA) | [Apple Podcasts](https://podcasts.apple.com/cn/podcast/%E5%BF%BD%E5%B7%A6%E5%BF%BD%E5%8F%B3/id1493503146) | [YouTube](https://www.youtube.com/@leftright2018)
 
-::: info
-被删除单集：
+::: info 被删除单集
 - 287 暴烈的转型：早期苏区如何「锻造组织」？
 :::
 

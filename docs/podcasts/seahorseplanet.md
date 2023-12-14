@@ -4,7 +4,7 @@ title: "海马星球"
 
 # {{ $frontmatter.title }}
 
-[Spotify](https://open.spotify.com/show/0JO0qK4stSWLU390lTkvG1)
+[RSS](https://seahorseplanet.net/feed/) | [Spotify](https://open.spotify.com/show/0JO0qK4stSWLU390lTkvG1)
 
 [网站](https://seahorseplanet.net) | [X(Twitter)](https://twitter.com/seahorseplanet)
 

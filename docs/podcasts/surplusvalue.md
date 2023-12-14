@@ -7,12 +7,12 @@ title: '剩余价值SurplusValue'
 
 [Spotify](https://open.spotify.com/show/3DL8GpdV3ql3ty6Fn8MYRA) | [Google Podcasts](https://podcasts.google.com/search/%E5%89%A9%E4%BD%99%E4%BB%B7%E5%80%BCSurplusValue)
 
-[官方网站（随机波动）](https://www.stovol.club/)
+随机波动：[RSS](https://www.stovol.club/rss) | [官方网站](https://www.stovol.club/)
 
 微博 [随机波动](https://weibo.com/u/7413190965) | [黄月](https://weibo.com/u/1657465117) | [傅适野](https://weibo.com/u/6036390124) | [张之琪](https://weibo.com/u/7411060056)
 
 ::: tip
-该播客已更名为“随机波动”。
+该播客在国内被删除，现已改名为“随机波动”。
 :::
 
 ::: info

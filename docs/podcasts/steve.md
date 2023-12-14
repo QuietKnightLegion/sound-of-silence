@@ -9,7 +9,7 @@ title: "Steve 说"
 [Newsletter](https://steve.hedwig.pub) | [网站](https://steveshuo.com)（未使用 HTTPS ，浏览器会提示安全隐患）
 
 ::: tip
-该播客已更名为“史蒂夫说”
+该播客已改名为“史蒂夫说”
 :::
 
 ::: info
