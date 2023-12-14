@@ -34,7 +34,7 @@ export default defineConfig({
       {
         text: '',
         items: [
-          { text: '支持', link: '/support' },
+          { text: '分享', link: '/share' },
           { text: '协作编辑', link: '/collaborate' },
           // { text: '捐赠', link: '/donate' }
         ]
