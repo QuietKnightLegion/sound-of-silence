@@ -24,6 +24,7 @@ aside: false
 <b>播客列表</b>
 
 - [剩余价值SurplusValue](/podcasts/surplusvalue)
+- [忽左忽右](/podcasts/leftright)
 - [展开讲讲](/podcasts/zhankaijiangjiang)
 - [反派影评](/podcasts/fanpaiyingping)
 - [Steve说](/podcasts/steve)

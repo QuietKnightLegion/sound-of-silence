@@ -20,6 +20,7 @@ export default defineConfig({
         text: '播客',
         items: [
           { text: '剩余价值SurplusValue', link: '/podcasts/surplusvalue' },
+          { text: '忽左忽右', link: '/podcasts/leftright' },
           { text: '展开讲讲', link: '/podcasts/zhankaijiangjiang' },
           { text: '反派影评', link: '/podcasts/fanpaiyingping' },
           { text: 'Steve说', link: '/podcasts/steve' },
