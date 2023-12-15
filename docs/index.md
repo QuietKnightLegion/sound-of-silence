@@ -36,6 +36,10 @@ aside: false
 
 </div>
 
+## 最近更新
+
+- 忽左忽右 - 287 暴烈的转型：早期苏区如何「锻造组织」？
+
 ## 声明
 
 所有内容来自互联网公开信息，版权属于原创作者。
@@ -55,8 +59,8 @@ aside: false
 - 网站中的内容错误
 
 #### 投稿方式：
-- （需要一个 GitHub 账号）在 GitHub 的 [issues 页面]()，右侧找到“ New issue ”按钮，填写想要编辑的内容，然后提交
 - 发送电子邮件到 quietknightlegion@gmail.com
+- （需要一个 GitHub 账号）在 GitHub 的 [issues 页面]()，右侧找到“ New issue ”按钮，填写想要编辑的内容，然后提交
 
 ## 协作编辑
 
