@@ -4,9 +4,11 @@ titleTemplate: ':title'
 aside: false
 ---
 
-记录被国内审查删除的播客。
 
 <style>
+.slogan {
+  font-size: 1.5em;
+}
 
 #pod-list {
   display: none;
@@ -19,9 +21,13 @@ aside: false
 
 </style>
 
+<div class="slogan">
+记录被国内审查删除的播客
+</div>
+
 <div id="pod-list">
 
-<b>播客列表</b>
+## 播客列表
 
 - [剩余价值SurplusValue](/podcasts/surplusvalue)
 - [忽左忽右](/podcasts/leftright)
@@ -48,19 +54,17 @@ aside: false
 
 ## 投稿
 
-欢迎提供以下信息：
+欢迎你提供以下信息：
 
-- 在国内平台正在运营或曾经运营的播客，单集遭到审查删除，或频道被封杀
+- 在国内平台运营中或曾经运营的播客，单集被删除，或频道被封杀
 
-- 被删除频道或单集的具体信息，如音频、文字、被删除的原因、背景信息、事件发展等
+- 被删除频道或单集的具体信息
 
-- 值得补充的信息：播客的收听渠道、社交媒体链接等
-
-- 网站中的内容错误
+- 网站中存在的错误
 
 #### 投稿方式：
 - 发送电子邮件到 quietknightlegion@gmail.com
-- （需要一个 GitHub 账号）在 GitHub 的 [issues 页面]()，右侧找到“ New issue ”按钮，填写想要编辑的内容，然后提交
+- （需要一个 GitHub 账号）在 GitHub 上 [提交一个新的 issue](https://github.com/QuietKnightLegion/sound-of-silence/issues/new)
 
 ## 协作编辑
 
