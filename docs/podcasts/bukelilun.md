@@ -16,5 +16,4 @@ title: "不可理论"
 
 ## 24: 阅读项飚
 
-<div style="height: 228px; width: 100%;"><iframe src="https://audio.com/embed/audio/1783865921154137?theme=light"
-    style="display:block; border-radius: 6px; border: none; height: 204px; width: 100%;"></iframe><a href='https://audio.com/quiet-knight' style="text-align: center; display: block; color: #A4ABB6; font-size: 12px; font-family: sans-serif; line-height: 16px; margin-top: 8px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">@quiet-knight</a></div>
+<iframe src="https://www.listennotes.com/podcasts/不可理论/24-阅读项飚-TK7WPxSy_zH/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>

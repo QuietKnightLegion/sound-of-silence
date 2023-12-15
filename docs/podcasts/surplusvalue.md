@@ -23,7 +23,7 @@ title: '剩余价值SurplusValue'
 
 ## 【051】瘟疫、语言和具体的人：与历史学家罗新的聊天
 
-<div style="height: 228px; width: 100%;"><iframe src="https://audio.com/embed/audio/1783461750574441?theme=light"    style="display:block; border-radius: 6px; border: none; height: 204px; width: 100%;"></iframe><a href='https://audio.com/quiet-knight' style="text-align: center; display: block; color: #A4ABB6; font-size: 12px; font-family: sans-serif; line-height: 16px; margin-top: 8px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">@quiet-knight</a></div>
+<iframe src="https://www.listennotes.com/podcasts/思享者/剩余榨值051-瘟疫语言和具体的人与历史学家罗新的聊天--E_Pn0jXoNT/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 
 ::: details 引文
 二月七日，罗新在微博上写了八个字，「一生所学，只为此刻。」这是一个怎样的此刻？有谁同在感受此刻，铭记此刻？一位历史学家的一生所学可以如何解释或烛亮此刻？站在这一时刻望向过去和未来，我们能看见什么，又能相信什么？
@@ -185,7 +185,7 @@ title: '剩余价值SurplusValue'
 
 ## 【剩余榨值023】在巨大的shock后，我们所思考的、所做的一切都将与此有关
 
-<div style="height: 228px; width: 100%;"><iframe src="https://audio.com/embed/audio/1783461749050944?theme=light"    style="display:block; border-radius: 6px; border: none; height: 204px; width: 100%;"></iframe><a href='https://audio.com/quiet-knight' style="text-align: center; display: block; color: #A4ABB6; font-size: 12px; font-family: sans-serif; line-height: 16px; margin-top: 8px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">@quiet-knight</a></div>
+<iframe src="https://www.listennotes.com/podcasts/思享者/剩余榨值023-TIaWG8K0N1p/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 
 ::: details 引文
 在这期节目中，我们将继续和罗新老师的聊天。我们依次分享了在疫情期间阅读的书目，其中有从宏大叙事角度论述瘟疫作为一种矫正社会不公力量的《瘟疫与人》，有作家沈大成在新书《小行星掉在下午》中创作的传染病主题的小说，有匈牙利裔美国记者卡蒂·马顿通过秘密警察档案回顾家庭史的《布达佩斯往事》，有余英时先生2018年出版的回忆录，有福柯关于生命政治和阿甘本关于难民的论述，也有奥尔加·托卡尔丘克举重若轻描述波兰二十世纪动荡历史的《太古和其他的时间》。在巨大的镇痛和震惊面前，我们逐渐发现，我们不再是从阅读中理解和想象他人的生活或者是其他的制度，我们所阅读的所思考的所做的一切都和当下有关，和现实有关。种种虚构的、非虚构的、理论性的、故事性的、轻盈的、沉重的、历史的、当代的文字，都指向当下，指向现在。正如罗新老师所言：「在巨大的 shock 之后，我们所思考的、所做的一切都将与此有关。」

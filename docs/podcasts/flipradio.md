@@ -14,10 +14,10 @@ title: '翻转电台'
 - “世界苦茶”新闻综述音频版
 :::
 
-## FSTD讨论01 基督徒可以抽烟喝酒吗？如何看待成瘾问题？快感是罪吗？ | VOL.28
+## 眼睛是身上的灯 / 我们不算计的生活 FSTD 《马太福音》第六章 VOL.19
 
-<iframe src="https://podcasters.spotify.com/pod/show/flipradio/embed/episodes/FSTD01---VOL-28-e2bqmh1/a-aajmlm7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.listennotes.com/podcasts/翻转台电翻电/眼睛是身上的灯-我们不算计的生活-fstd-JpylWGACF68/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 
-## [ YT直播 ] 犬儒一点又如何，不犬儒能怎么样？ | 004
+## 世界苦茶12月14日新聞
 
-<iframe src="https://podcasters.spotify.com/pod/show/flipradio/embed/episodes/YT----004-e2be5cc/a-aaif23v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.listennotes.com/podcasts/世界苦茶world-bitter-tea/世界苦茶12月14日新聞-泰國將合法化同婚-kAUSq3x2ufs/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
