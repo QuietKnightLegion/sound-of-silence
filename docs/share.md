@@ -24,8 +24,3 @@ prev: false
 也可以在播客搜索引擎 [Listen Notes](https://www.listennotes.com/) 中搜索节目下载。
 
 其它平台，可以尝试用浏览器插件下载。
-
-本网站内引用的部分音频文件，可以通过以下方式下载：
-- [Google Drive](https://drive.google.com/drive/folders/1KMLBC7lKtnHMxcMMj9KtuBcEN4wxR80f?usp=sharing)
-- [Dropbox](https://www.dropbox.com/scl/fo/pyvtffl4p86bnc2irmn8f/h?rlkey=dfn0i30m3r6e4r6e9go5hb0ql&dl=0)
-- [Audio.com](https://audio.com/quiet-knight)

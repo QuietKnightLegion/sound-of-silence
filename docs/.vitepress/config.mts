@@ -19,9 +19,11 @@ export default defineConfig({
       {
         text: '播客',
         items: [
+          { text: '八分半', link: '/podcasts/bafenban' },
           { text: '剩余价值SurplusValue', link: '/podcasts/surplusvalue' },
           { text: '忽左忽右', link: '/podcasts/leftright' },
           { text: '展开讲讲', link: '/podcasts/zhankaijiangjiang' },
+          { text: '问题青年', link: '/podcasts/wonderers'},
           { text: '反派影评', link: '/podcasts/fanpaiyingping' },
           { text: 'Steve说', link: '/podcasts/steve' },
           { text: '翻转电台', link: '/podcasts/flipradio' },

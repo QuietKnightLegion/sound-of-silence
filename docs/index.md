@@ -32,6 +32,7 @@ aside: false
 - [剩余价值SurplusValue](/podcasts/surplusvalue)
 - [忽左忽右](/podcasts/leftright)
 - [展开讲讲](/podcasts/zhankaijiangjiang)
+- [问题青年](/podcasts/wonderers)
 - [反派影评](/podcasts/fanpaiyingping)
 - [Steve说](/podcasts/steve)
 - [翻转电台](/podcasts/flipradio)
