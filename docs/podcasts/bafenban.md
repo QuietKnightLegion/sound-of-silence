@@ -4,7 +4,7 @@ title: "八分半"
 
 # {{ $frontmatter.title }}
 
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/%E5%85%AB%E5%88%86%E5%8D%8A/id1751418168)
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/%E5%85%AB%E5%88%86%E5%8D%8A/id1751418168) | [YouTube](https://www.youtube.com/@8fenban/shorts)
 
 ::: info
 《八分半》为梁文道在播客《八分》后推出的付费节目，在2025年7月底被喜马拉雅下架，小红书、B站帐号被清空。8月20日，《八分半》在小宇宙发通知，称由于“技术原因”，节目无法在小宇宙更新，随后小宇宙也完全清除了《八分半》的所有内容，并且无法用“八分半”进行搜索。
