@@ -4,6 +4,14 @@ titleTemplate: ':title'
 aside: false
 ---
 
+<script setup>
+import { useData } from 'vitepress'
+
+// 播客列表取自 .vitepress/config.mts 的侧边栏，新增节目只需改那里
+const { theme } = useData()
+const podcasts = theme.value.sidebar[0].items
+</script>
+
 
 <style>
 .slogan {
@@ -29,17 +37,11 @@ aside: false
 
 ## 播客列表
 
-- [剩余价值SurplusValue](/podcasts/surplusvalue)
-- [忽左忽右](/podcasts/leftright)
-- [展开讲讲](/podcasts/zhankaijiangjiang)
-- [问题青年](/podcasts/wonderers)
-- [反派影评](/podcasts/fanpaiyingping)
-- [Steve说](/podcasts/steve)
-- [翻转电台](/podcasts/flipradio)
-- [塔可冲司机](/podcasts/tarkochonsky)
-- [海马星球](/podcasts/seahorseplanet)
-- [不可理论](/podcasts/bukelilun)
-- [共识沙龙](/podcasts/gongshishalong)
+<ul>
+  <li v-for="podcast in podcasts" :key="podcast.link">
+    <a :href="podcast.link">{{ podcast.text }}</a>
+  </li>
+</ul>
 
 </div>
 
