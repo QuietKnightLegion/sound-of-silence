@@ -19,6 +19,7 @@ export default defineConfig({
       {
         text: '播客',
         items: [
+          { text: '西西弗高速', link: '/podcasts/sisfreeway' },
           { text: '时差 in-betweenness', link: '/podcasts/shicha' },
           { text: '八分半', link: '/podcasts/bafenban' },
           { text: '剩余价值SurplusValue', link: '/podcasts/surplusvalue' },

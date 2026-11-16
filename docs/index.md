@@ -47,6 +47,7 @@ const podcasts = theme.value.sidebar[0].items
 
 ## 最近更新
 
+- 西西弗高速 - 31.中国乒乓的变局：赛场、对手与舆论
 - 时差 in-betweenness
 - 八分半
 - 忽左忽右 - “怪力乱神”系列
