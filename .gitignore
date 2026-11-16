@@ -131,3 +131,6 @@ docs/.vitepress/cache
 
 # macOS
 .DS_Store
+
+# Scan workflow working data (unverified leads, never publish)
+.scan/
