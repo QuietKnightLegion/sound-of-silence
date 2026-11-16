@@ -38,6 +38,8 @@ export default defineConfig({
       {
         text: '',
         items: [
+          { text: '待核实', link: '/pending' },
+          { text: '已排除', link: '/rejected' },
           { text: '分享', link: '/share' },
           { text: '协作编辑', link: '/collaborate' },
           // { text: '捐赠', link: '/donate' }
