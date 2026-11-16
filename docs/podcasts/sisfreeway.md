@@ -18,6 +18,5 @@ title: "西西弗高速"
 
 ## 31.中国乒乓的变局：赛场、对手与舆论
 
-::: tip
-暂时没有可以公开收听的地址。
-:::
+<div style="height: 228px; width: 600px;"><iframe src="https://audio.com/embed/audio/1882044399510278?theme=light"
+    style="display:block; border-radius: 1px; border: none; height: 204px; width: 600px;"></iframe><a href='https://audio.com/quiet-knight' style="text-align: center; display: block; color: #A4ABB6; font-size: 12px; font-family: sans-serif; line-height: 16px; margin-top: 8px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">@quiet-knight</a></div>
